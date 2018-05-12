@@ -1,0 +1,18 @@
+﻿<updates>
+	<update>
+		<name>Announce Board</name>
+		<description>Show your announcements (news, messages, alerts, ...) to users in a pretty style.</description>
+		<element>mod_announceboard</element>
+		<type>module</type>
+		<version>1.0</version>
+		<infourl title="Announce Board">https://github.com/mostafa272/Announce-Board/issues/1</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/mostafa272/Announce-Board/files/1997429/mod_announceboard.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<targetplatform name="joomla" version="3.[678]" />
+		<php_minimum>5.3.10</php_minimum>
+	</update>
+</updates>
